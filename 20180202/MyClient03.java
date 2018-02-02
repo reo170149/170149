@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class MyClient02{
+public class MyClient03{
 	public static void main(String[] args){
 		Socket sock;
 		byte[] buff = new byte[1024];
